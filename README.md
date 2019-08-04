@@ -34,4 +34,7 @@ npm run test
 ### Editing a task
 ![Task added](https://github.com/ettorestark/to-do-app-with-mevn/blob/master/assets/Editing%20a%20task.jpg)
 
+### Task edited
+![Task edited](https://github.com/ettorestark/to-do-app-with-mevn/blob/master/assets/Task%20edited.jpg)
+
 Made with ❤️ by [Ettore Stark](https://github.com/ettorestark) 
